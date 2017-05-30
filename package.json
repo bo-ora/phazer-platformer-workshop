@@ -1,0 +1,24 @@
+{
+  "name": "phazer-platformer-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "browser-sync start --server --files=\"**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bo-ora/phazer-platformer-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bo-ora/phazer-platformer-workshop/issues"
+  },
+  "homepage": "https://github.com/bo-ora/phazer-platformer-workshop#readme"
+}
